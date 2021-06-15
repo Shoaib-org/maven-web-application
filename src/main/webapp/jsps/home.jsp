@@ -17,7 +17,7 @@
 		<img src="images/mithunlogo.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		Mithun Software Solutions, 
+		Shoaib Software Solutions, 
 		Martha Halli,
 		Bangalore,
 		+91-9980923226,
